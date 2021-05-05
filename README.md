@@ -2,7 +2,7 @@
 A Perceptron in just one Line of Python Code
 
 
-Hallo, da ich gerne unmöglichen Code möglich mache, habe ich mich entschlossen ein Rosenblatt Perzeptron (manche nennen es auch einfach künstliches Neuron oder Unit) in einer einzigen rekursiven lambda Funktion zu programmieren. Ich an der einen oder anderen Stelle etwas getrickst - das soll der geneigte Leser/Coder aber selber herausfinden :) 
+Hallo, da ich gerne unmöglichen Code möglich mache, habe ich mich entschlossen ein Rosenblatt Perzeptron (manche nennen es auch einfach künstliches Neuron oder Unit) in einer einzigen rekursiven lambda Funktion zu programmieren. Ich habe an der einen oder anderen Stelle etwas getrickst - das soll der geneigte Leser/Coder aber selber herausfinden :) 
 
 Bei eventuellen Bugs bitte bescheid sagen.
 
